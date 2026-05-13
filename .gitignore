@@ -1,0 +1,18 @@
+# Python
+__pycache__/*
+__pycache__/
+
+# VIM
+*.un~
+*.swp
+*\~
+
+# Editor
+
+.idea/
+
+# Database
+*.db
+
+# Environments 
+*.env
